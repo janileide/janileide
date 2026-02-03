@@ -1,5 +1,24 @@
 ## Hi there 👋
 
+Eu sou <b>Janileide Florêncio</b>
+
+- 💻 Desenvolvedor Front-End em construção
+- 🧱 HTML dando forma às ideias
+- 💅 CSS deixando tudo bonito
+- 📚 JavaScript em aprendizado
+- 🚀 Sempre evoluindo, explorando novas ideias e boas práticas
+- 🧪 Testando, errando e melhorando
+- 🌐 Transformando ideias em tela
+- 💡 Apaixonada por transformar design em código
+
+<br>
+<br>
+
+<a href="www.linkedin.com/in/janileideflorencio"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMfFwrH9-GS3nyZhlhECFAXh25fa-I5zM2EQ&s" width="90px"/></a>
+
+
+
+
 <!--
 **janileide/janileide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
